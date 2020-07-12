@@ -59,6 +59,12 @@ rides that are still awaiting approval and those that have already been approved
 Displays the route, cost distance per passenger. In addition on this page the driver can announce the end of a trip.
 <p align="center"><img src="Screenshots/map-ride info.png" width="300" /></p>
 
+## TODO
+1. Create starting and ending points that can include more accurate addresses,
+   such as street names and house numbers.
+2. Create  sign up page.
+3. Create intermediate points in a route with a distance restriction from the main  route.
+4. Adding the option of creating a route by the passenger.
 
 
 
