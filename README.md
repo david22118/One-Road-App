@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+One Road is carpool mobile responsive-App.The app give a win win solution to car owners that want to save money and people that don't have car but need to travel somewhere.
 
-## Available Scripts
+
+## Running the project
+1.Clone the repo.
+2.Run npm install.
+3.Run npm run build
+4.Run npm start.
+5.Navigate to http://localhost:3000.
 
 In the project directory, you can run:
 
