@@ -52,7 +52,7 @@ You can also contact the passenger either via chat or by phone displayed on the 
 ### Requests for ride
 Displays your applications to join.
 rides that are still awaiting approval and those that have already been approved.
-<p align="center"><img src="Screenshots/requests for ride.png" width="300" /></p>
+<p align="center"><img src="Screenshots/requests for ride .png" width="300" /></p>
 
 
 ### Map and ride info
