@@ -11,7 +11,7 @@ One Road is carpool mobile responsive-App.The app give a win win solution to car
     + [Carpools](#Carpools)
     + [Requests for ride](#Requests-for-ride)
     + [Map and ride info](#Map-and-ride-info)
-  * [Tech-Stack](#Tech-Stack)
+  * [Tech-Stack](#Techstack)
   * [TODO](#todo)
 
 ## Running the project
