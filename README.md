@@ -2,13 +2,14 @@ One Road is carpool mobile responsive-App.The app give a win win solution to car
 
 
 ## Running the project
+
 1.Clone the repo
 2.Run npm install
 3.Run npm run build
 4.Run npm start
 5.Navigate to http://localhost:3000
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
