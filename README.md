@@ -16,7 +16,9 @@ One Road is carpool mobile responsive-App.The app give a win win solution to car
 
 
 ### Landing page
-![alt text](C:\Users\David\Downloads\home\code\bootcamp\personal-exercises\Screenshots\analytics)
+An overview of all your expenses throughout the current month. You can select another month with the dropdown. Each expense can be clicked on and expanded in order to see extra information such as the date and category of the expense.
+<p align="center"><img src="Screenshots/landing-page.png" width="300" /></p>
+
 
 
 ### Create  ride
